@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on new projects 
 - 📫 How to reach me on whatsapp
-  
 
 <!---
 beingrishikumar/beingrishikumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
